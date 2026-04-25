@@ -1,2 +1,2 @@
 # java
-Software Engineer passionate about building efficient, scalable, and user-focused applications. Skilled in problem-solving, OOP, and clean coding practices. Continuously learning new technologies and improving fundamentals to deliver reliable and high-quality software solutions.
+I am a passionate Software Engineer with a strong interest in building efficient, scalable, and user-focused applications. I enjoy working with modern technologies, solving real-world problems, and continuously improving my skills. My work reflects clean code practices, logical thinking, and a commitment to learning and growth. I actively explore new tools, contribute to meaningful projects, and strive to deliver high-quality software solutions.
